@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Hospedar site Vue.js no S3 usando Static Website Hosting (público e simples).
+Description: Hospedar site Vue.js
 
 Resources:
   WebsiteBucket:
